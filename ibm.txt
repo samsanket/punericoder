@@ -1,0 +1,12 @@
+Stacked CUP
+Minimum and Maximum Hamming Distance 
+Cycle Timing Computation 
+Alphabaate and numerinc stack creation 
+Password Format Verifier
+8 bit to word 
+Discount calculator [given % and ammount]
+pattern matching find the first match 
+Packet Detector
+File Split
+Conver Decimal to Binary and vice varsa
+

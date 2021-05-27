@@ -1,0 +1,33 @@
+i) WAP to print next to last word of a sentence		(test.java)
+
+ii)WAP to remove the vowels from the input string	(RemoveVowel.java)
+
+iii) WAP to convert uppercase to lower case and vice versa of 
+a given string or sentence							(LowerToUpper.java)
+
+iv) WAP to print the reverse 						(ReverseString.java)
+
+v) WAP to print the desired character from a string or search a 
+char in a string.									(SearchChar.java)
+
+INPUT & OUTPUT according to the program
+
+i> 		INPUT: What is your name
+		OUTPUT: your
+
+ii>		INPUT: What is your name?
+		OUTPUT:Wht s yr nm?
+	
+iii>	INPUT: WhAT iS YouR nAme?
+		OUTPUT:wHat Is yOUr NaME?
+		
+iv>		FOR FIRST AND SECOND METHOD
+		INPUT: What is your name?
+		OUTPUT:?eman ruoy si tahw
+		
+		FOR THE THIRD METHOD
+		INPUT: What is your name?
+		OUTPUT:name? your is what
+		
+v>		INPUT:What is your name?(searching a)
+		OUTPUT:The Position Of a is 3

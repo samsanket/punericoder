@@ -1,0 +1,2 @@
+> git checkout -q -b Codechef --no-track HEAD
+fatal: 'HEAD' is not a commit and a branch 'Codechef' cannot be created from it
